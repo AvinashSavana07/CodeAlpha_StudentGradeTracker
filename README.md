@@ -31,4 +31,5 @@ The project includes **two versions**:
 3. Run the file → enter student details in the terminal.
 4. A detailed report will be displayed.
 
-**Example run (Console):**
+
+
